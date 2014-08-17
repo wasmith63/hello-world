@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First repository
+This is a hello-world first repository. And moon tacos rock. 
